@@ -1,0 +1,17 @@
+{
+  "name": "roomie-flask-server",
+  "version": "1.0.0",
+  "repository": "https://github.com/phoebedo/roomie-flask-server.git",
+  "author": {
+    "first": {
+      "github": "phoebedo"
+    },
+    "second": {
+      "github": "viktor-phan"
+    }
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "flask run"
+  }
+}
